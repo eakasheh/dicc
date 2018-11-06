@@ -1,2 +1,2 @@
-# dicc pull elceef/dnstwist
-pull elceef/dnstwist
+$ docker pull elceef/dnstwist
+$ docker run elceef/dnstwist example.com
